@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-shots-game/static/css/main.76697495.css",
+    "main.js": "/react-shots-game/static/js/main.2effbd3a.js",
+    "static/js/787.044fea72.chunk.js": "/react-shots-game/static/js/787.044fea72.chunk.js",
+    "service-worker.js": "/react-shots-game/service-worker.js",
+    "index.html": "/react-shots-game/index.html",
+    "main.76697495.css.map": "/react-shots-game/static/css/main.76697495.css.map",
+    "main.2effbd3a.js.map": "/react-shots-game/static/js/main.2effbd3a.js.map",
+    "787.044fea72.chunk.js.map": "/react-shots-game/static/js/787.044fea72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76697495.css",
+    "static/js/main.2effbd3a.js"
+  ]
+}
